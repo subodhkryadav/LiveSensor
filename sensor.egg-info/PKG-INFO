@@ -3,5 +3,7 @@ Name: sensor
 Version: 0.0.1
 Author: Subodh Kumar yadav
 Author-email: subodhkumary933@gmail.com
+License-File: LICENSE
 Dynamic: author
 Dynamic: author-email
+Dynamic: license-file
