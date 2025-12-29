@@ -1,8 +1,15 @@
 from setuptools import find_packages,setup
-#from typeing import List
+from typing import List
 
-def get_requirements_list()-> list(str):
-    requirements_list=list(str)=[]
+def get_requirements_list()->List[str]:
+# this function will return list of requirements
+
+    requirements_list:List[str]=[]
+    """ 
+    write a code to read requirements.txt file and append each requirements
+    in requirement_list variable
+    """
+
     return requirements_list
 
 
